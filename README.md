@@ -1,16 +1,89 @@
-# keuanganku
+# KeuanganKu - Aplikasi Pengelola Keuangan Pribadi
 
-A new Flutter project.
+<p align="center">
+  <img src="docs/home.png" alt="KeuanganKu Home Screen" width="300">
+</p>
 
-## Getting Started
+## 📱 Tentang Aplikasi
 
-This project is a starting point for a Flutter application.
+**KeuanganKu** adalah aplikasi pengelola keuangan pribadi yang dirancang untuk membantu Anda melacak pemasukan dan pengeluaran dengan mudah. Aplikasi ini dibangun menggunakan Flutter dengan pendekatan Clean Architecture dan Provider untuk state management.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📊 Dashboard Beranda
+Melihat ringkasan keuangan dan daftar transaksi terbaru dengan tampilan yang intuitif.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="docs/home.png" alt="Dashboard Beranda" width="300">
+</p>
+
+### 💰 Pencatatan Transaksi
+Catat pemasukan dan pengeluaran dengan detail lengkap termasuk kategori, tanggal, dan lampiran bukti transaksi.
+
+<p align="center">
+  <img src="docs/tambah_transaksi.png" alt="Tambah Transaksi" width="300">
+</p>
+
+### 🔍 Detail Transaksi
+Lihat detail lengkap setiap transaksi dan edit jika diperlukan.
+
+### 📁 Lampiran Bukti Transaksi
+Lampirkan gambar sebagai bukti transaksi baik untuk pemasukan maupun pengeluaran.
+
+### 📋 Pengelolaan Kategori
+Kelola kategori transaksi untuk mengorganisir keuangan dengan lebih baik.
+
+<p align="center">
+  <img src="docs/kelola kategory.png" alt="Kelola Kategori" width="300">
+  <img src="docs/tambah kategori.png" alt="Tambah Kategori" width="300">
+</p>
+
+### 📈 Laporan Keuangan
+Analisis keuangan dengan laporan visual berdasarkan kategori dan periode waktu.
+
+<p align="center">
+  <img src="docs/laporan.png" alt="Laporan Keuangan" width="300">
+</p>
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Flutter**: Framework UI untuk pengembangan aplikasi multi-platform
+- **Provider**: State management
+- **SQLite**: Database lokal untuk penyimpanan data
+- **Clean Architecture**: Arsitektur aplikasi untuk pemisahan tanggung jawab
+- **Repository Pattern**: Pola desain untuk akses data
+- **Dependency Injection**: Untuk manajemen dependensi
+- **Image Picker**: Untuk mengambil gambar dari kamera atau galeri
+- **Path Provider**: Untuk mengakses penyimpanan lokal
+
+## 📺 Proses Pengembangan
+
+Proses pengembangan aplikasi ini telah didokumentasikan dalam sesi live streaming. Anda dapat menyaksikan proses pembuatannya di:
+
+[🎬 Tonton Proses Pengembangan KeuanganKu di YouTube](https://www.youtube.com/live/FJLtG6Gl-LM)
+
+## 🚀 Cara Menjalankan Aplikasi
+
+1. Pastikan Flutter SDK sudah terinstal di komputer Anda
+2. Clone repositori ini
+3. Jalankan `flutter pub get` untuk menginstal dependensi
+4. Jalankan `flutter run` untuk memulai aplikasi
+
+## 📝 Fitur yang Akan Datang
+
+- Ekspor data ke format Excel/PDF
+- Pengaturan anggaran bulanan
+- Notifikasi pengingat pembayaran
+- Sinkronisasi data ke cloud
+- Tema gelap (dark mode)
+- Dukungan multi-bahasa
+
+## 📄 Lisensi
+
+Aplikasi ini bersifat open source dan tersedia di bawah lisensi MIT.
+
+---
+
+<p align="center">
+  Dibuat dengan ❤️ untuk membantu pengelolaan keuangan pribadi yang lebih baik
+</p>
