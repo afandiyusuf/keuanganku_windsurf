@@ -1,6 +1,12 @@
 # KeuanganKu - Aplikasi Pengelola Keuangan Pribadi
 
 <p align="center">
+  <a href="https://www.youtube.com/live/FJLtG6Gl-LM">
+    <img src="https://img.shields.io/badge/YouTube-Tonton_Proses_Pengembangan-red?style=for-the-badge&logo=youtube" alt="YouTube Video">
+  </a>
+</p>
+
+<p align="center">
   <img src="docs/home.png" alt="KeuanganKu Home Screen" width="300">
 </p>
 
@@ -55,12 +61,6 @@ Analisis keuangan dengan laporan visual berdasarkan kategori dan periode waktu.
 - **Dependency Injection**: Untuk manajemen dependensi
 - **Image Picker**: Untuk mengambil gambar dari kamera atau galeri
 - **Path Provider**: Untuk mengakses penyimpanan lokal
-
-## 📺 Proses Pengembangan
-
-Proses pengembangan aplikasi ini telah didokumentasikan dalam sesi live streaming. Anda dapat menyaksikan proses pembuatannya di:
-
-[🎬 Tonton Proses Pengembangan KeuanganKu di YouTube](https://www.youtube.com/live/FJLtG6Gl-LM)
 
 ## 🚀 Cara Menjalankan Aplikasi
 
