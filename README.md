@@ -1,13 +1,21 @@
 # KeuanganKu - Aplikasi Pengelola Keuangan Pribadi
 
 <p align="center">
+  <img src="docs/home.png" alt="KeuanganKu Home Screen" width="300">
+</p>
+
+<p align="center">
+  <strong>📺 Proses pengembangan aplikasi ini telah didokumentasikan dalam sesi live streaming! 📺</strong>
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/live/FJLtG6Gl-LM">
     <img src="https://img.shields.io/badge/YouTube-Tonton_Proses_Pengembangan-red?style=for-the-badge&logo=youtube" alt="YouTube Video">
   </a>
 </p>
 
 <p align="center">
-  <img src="docs/home.png" alt="KeuanganKu Home Screen" width="300">
+  <em>Tonton bagaimana aplikasi ini dibuat dari awal hingga akhir, lengkap dengan penjelasan teknis dan tips pengembangan!</em>
 </p>
 
 ## 📱 Tentang Aplikasi
