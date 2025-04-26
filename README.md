@@ -49,7 +49,7 @@ Analisis keuangan dengan laporan visual berdasarkan kategori dan periode waktu.
 
 - **Flutter**: Framework UI untuk pengembangan aplikasi multi-platform
 - **Provider**: State management
-- **SQLite**: Database lokal untuk penyimpanan data
+- **SharedPreferences**: Penyimpanan data lokal berbasis key-value
 - **Clean Architecture**: Arsitektur aplikasi untuk pemisahan tanggung jawab
 - **Repository Pattern**: Pola desain untuk akses data
 - **Dependency Injection**: Untuk manajemen dependensi
